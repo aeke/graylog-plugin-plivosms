@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/aeke/graylog-plugin-plivosms.svg?branch=master)](https://travis-ci.org/aeke/graylog-plugin-plivosms)
 
-__An alarm callback plugin for integrating the Plivo SMS API into Graylog..__
+An alarm callback plugin for integrating the <a href="https://www.plivo.com/sms-api/">Plivo SMS API</a> into <a href="https://www.graylog.org/">Graylog</a>
 
 **Required Graylog version:** 1.0 and later
 
