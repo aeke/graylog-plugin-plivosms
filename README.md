@@ -2,7 +2,7 @@
 # Plivo SMS Plugin for Graylog
 
 [![Build Status](https://travis-ci.org/aeke/graylog-plugin-plivosms.svg?branch=master)](https://travis-ci.org/aeke/graylog-plugin-plivosms)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)]()
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](https://github.com/aeke/graylog-plugin-plivosms/blob/master/LICENSE)
 
 An alarm callback plugin for integrating the <a href="https://www.plivo.com/sms-api/">Plivo SMS API</a> into <a href="https://www.graylog.org/">Graylog</a>
 
