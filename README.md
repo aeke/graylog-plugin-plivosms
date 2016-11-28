@@ -6,7 +6,7 @@
 
 An alarm callback plugin for integrating the <a href="https://www.plivo.com/sms-api/">Plivo SMS API</a> into <a href="https://www.graylog.org/">Graylog</a>
 
-**Required Graylog version:** 1.0 and later
+Required Graylog version: **1.0 and later**
 
 Installation
 ------------
